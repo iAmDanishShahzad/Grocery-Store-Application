@@ -1,0 +1,1 @@
+This project focuses on building an inventory management system for a grocery store.
